@@ -8,4 +8,4 @@ The website is made focusing on two different types of users i.e. Volunteers and
 
 Wix site link: https://saath25.wixsite.com/saath25
 
-Proto type Video: https://www.youtube.com/watch?v=xrKGHL-4LqU&ab_channel=DevanshuMagiawala
+Prototype Video: https://www.youtube.com/watch?v=xrKGHL-4LqU&ab_channel=DevanshuMagiawala
